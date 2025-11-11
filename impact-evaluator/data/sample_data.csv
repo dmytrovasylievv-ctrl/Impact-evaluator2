@@ -1,0 +1,11 @@
+beneficiary_id,beneficiary_name,case_status,resources_spent,community_activity,intervention_success
+1,John Doe,closed,1500,5,1
+2,Jane Smith,closed,2000,3,1
+3,Bob Johnson,open,1000,2,0
+4,Alice Williams,closed,2500,4,1
+5,Charlie Brown,open,1200,1,0
+6,Diana Prince,closed,1800,6,1
+7,Clark Kent,open,1600,2,0
+8,Peter Parker,closed,2200,5,1
+9,Wade Wilson,closed,3000,7,1
+10,Steve Rogers,open,1400,3,0
